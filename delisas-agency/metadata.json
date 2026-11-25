@@ -1,0 +1,8 @@
+{
+  "name": "Delisas Agency",
+  "description": "Fresh culinary delivery, dish customization, and live order tracking experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
